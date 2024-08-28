@@ -54,6 +54,6 @@ export const NewsSectionData: NewsSectionDataProps[] = [
 },
 {
     id: 13,
-    title: '',
+    title: 'Local News',
 },
 ]
